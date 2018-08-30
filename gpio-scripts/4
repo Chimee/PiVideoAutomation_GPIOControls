@@ -1,0 +1,34 @@
+#!/bin/sh
+
+
+#kill $(pgrep omxplayer)
+
+#kill $(pgrep omxplayer.bin)
+
+pkill -9 'videolooper.sh'
+
+pkill -9 'videolooper2.sh'
+
+pkill -9 'xterm'
+
+pkill -9 'videoloopstart.py'
+
+
+
+pkill -9 'omxplayer'
+
+
+
+
+
+kill $(pgrep omxplayer.bin)
+
+
+
+#pkill -f $(pgrep video_looper.py)
+
+#pkill -f $(pgrep omxplayer.py)
+
+#killall $(pgrep omxplayer)
+
+#killall $(pgrep omxplayer.bin)

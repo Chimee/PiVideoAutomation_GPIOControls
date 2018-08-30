@@ -1,0 +1,16 @@
+GPIO 4 - Button 1 - Kill OMXPlayer and Script
+
+GPIO 15 - Button 8 - Pause Video
+
+GPIO 23 - Button 6 - Letter I (Previous Vid) (HDMI AUDIO)
+
+GPIO 24 - Button 4 - Letter O (Next Video) (MAX98 Audio)
+
+GPIO 12 - Button 2 - ENTER 
+
+GPIO 25 - Button 3 - Volume Down
+
+GPIO 26 - Button 5 - Volume UP
+
+GPIO 20 - Button 7 - Fast Forward 7
+

@@ -1,0 +1,17 @@
+GPIO 21, 18, 19 reserved for dac
+
+Do not use these for video player buttons if planning on altering 
+
+
+
+PIN Connections
+
+AMP VIN - Raspberry Pi  5V
+
+AMP GND - Raspberry Pi GND
+
+DIN - Gpio21
+
+BCLK - Gpio18
+
+LRC - Gpio19
